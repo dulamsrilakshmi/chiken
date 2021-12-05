@@ -11,6 +11,7 @@ pulihora
   idly
   gare
   puri
-
+pizza
+beans
 
 thank you
